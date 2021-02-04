@@ -4,7 +4,7 @@
                             font-family: 'Merriweather', serif;
                             color: #40514e;
                           overflow:auto;
-                            background-image: url(https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg);
+                            background-image: url("back.png");
     background-size: cover;
     background-repeat: no-repeat;
                         }
