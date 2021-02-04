@@ -26,12 +26,12 @@
                             font-family: 'Montserrat', sans-serif;
                             color: #11999e;
                         }
-                         @media screen and(min-width:720px){
+                         @media screen(min-width:720px){
                         
                         .top-container {
                             background-color: #E4F9F5;
                             margin-left: 0px;
-                            position: relative;
+                            position: absolute;
                             padding-top: 100px;
                           overflow:hidden;
                         }
@@ -50,13 +50,13 @@
                         }
                         
                         .bottom-cloud {
-                            position: absolute;
+                            position: relative;
                             left: 250px;
                             bottom: 300px;
                         }
                         
                         .top-cloud {
-                            position: absolute;
+                            position: relative;
                             right: 300px;
                             top: 40px;
                         }
@@ -85,7 +85,7 @@
                             border: dotted;
                             color: grey;
                             border-bottom: none;
-                            width: 4%;
+      
                             margin: 100px auto 100px auto;
                         }
                         
