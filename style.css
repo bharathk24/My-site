@@ -43,6 +43,7 @@
                         .bottom-container {
                             background-color: #66bfbf;
                             margin: 50px 0 20px;
+                             padding-top:50px;
                         }
                         
                         .web {
@@ -50,7 +51,7 @@
                         }
                         
                         .bottom-cloud {
-                            position: absolute;
+                            position: relative;
                             left: 250px;
                             bottom: 300px;
                         }
@@ -95,7 +96,7 @@
                         }
                         
                         .web1 {
-                            width: 30%;
+                            width: 100%;
                             margin: 30px auto 0 auto;
                         }
                                 
