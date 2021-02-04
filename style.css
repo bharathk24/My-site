@@ -3,6 +3,7 @@
                             text-align: center;
                             font-family: 'Merriweather', serif;
                             color: #40514e;
+                          overflow:auto;
                         }
                         
                         h1 {
