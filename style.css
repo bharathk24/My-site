@@ -30,7 +30,7 @@
                         
                         .top-container {
                             background-color: #E4F9F5;
-                            margin-left: 0px;
+                       
                             position: absolute;
                             padding-top: 100px;
                           overflow:hidden;
@@ -50,13 +50,13 @@
                         }
                         
                         .bottom-cloud {
-                            position: relative;
+                            position: absolute;
                             left: 250px;
                             bottom: 300px;
                         }
                         
                         .top-cloud {
-                            position: relative;
+                            position: absolute;
                             right: 300px;
                             top: 40px;
                         }
