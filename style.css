@@ -26,6 +26,7 @@
                             font-family: 'Montserrat', sans-serif;
                             color: #11999e;
                         }
+                         @media screen and(min-width:720px){
                         
                         .top-container {
                             background-color: #E4F9F5;
@@ -59,6 +60,7 @@
                             right: 300px;
                             top: 40px;
                         }
+}
                         
                         .skill-row {
                             width: 50%;
